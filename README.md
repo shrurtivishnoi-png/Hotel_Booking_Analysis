@@ -4,8 +4,7 @@ Analysis of **119,390 hotel booking records** using **Python, SQL, and Data Visu
 
 ## 📌 Project Overview
 
-This project analyzes hotel booking data to extract actionable business insights around booking trends, cancellations, customer segments, market channels, and pricing patterns.
-
+This project analyzes hotel booking data to extract actionable business insights around booking trends, cancellations, customer segments, market channels, and pricing patterns — using Python for data cleaning/EDA, SQL for querying, and Matplotlib for visualization.
 Python was used for data cleaning and exploratory data analysis, SQL for querying and aggregation, and Matplotlib for data visualization.
 
 ## 🎯 Project Objective
