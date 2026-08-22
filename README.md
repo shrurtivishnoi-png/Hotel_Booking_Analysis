@@ -128,6 +128,14 @@ Based on the analysis, the following recommendations can help hotels improve the
 - Hotel_analysis.sql — SQL queries used for the analysis
 - hotel_booking 2.csv — Raw hotel booking dataset
 
+## 📂 Project Structure
+
+Hotel_Booking_Analysis/
+│
+├── Hotel_Booking_Analysis.ipynb      # Python + SQL analysis
+├── Hotel_analysis.sql                # SQL queries
+├── hotel_booking 2.csv               # Raw dataset
+└── README.md                         # Project documentation
 ## 🔗 Author
 
 Analysis by [shrurtivishnoi-png](https://github.com/shrurtivishnoi-png)
