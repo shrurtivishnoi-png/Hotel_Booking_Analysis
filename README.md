@@ -96,7 +96,20 @@ The **overall cancellation rate stood at 37.04%**, a significant share of total 
 | Resort Hotel | €94.95 |
 
 City Hotel commands a higher average daily rate than Resort Hotel.
+## 💡 Business Recommendations
 
+Based on the analysis, the following recommendations can help hotels improve their booking and revenue strategies:
+
+- **Reduce Cancellations:** With around 37% of bookings cancelled, hotels can identify high-risk bookings and consider suitable deposit or prepayment strategies.
+
+- **Optimize Peak-Season Pricing:** July and August showed the highest booking demand. Hotels can consider dynamic pricing and targeted promotions during high-demand periods.
+
+- **Monitor OTA Performance:** Online Travel Agents generated the highest number of bookings. Hotels should monitor OTA performance, commission costs, and conversion rates while also encouraging direct bookings.
+
+- **Focus on Key Customer Segments:** Transient customers represented the largest customer group. Hotels can develop targeted offers and personalized campaigns for this segment.
+
+- **Review Hotel Pricing:** City Hotel had a higher average ADR than Resort Hotel. Management can further analyze demand and pricing patterns to optimize room rates.
+- 
 ## ✅ Conclusion
 
 - City Hotel received the highest number of bookings (66.4%).
