@@ -107,11 +107,13 @@ City Hotel commands a higher average daily rate than Resort Hotel.
 - Transient customers were the most common customer type.
 - Average Daily Rate varied across hotel types, with City Hotel pricing higher on average.
 
+
+
 ## 📁 Files
 
-- `Copy_of_Hotel_Booking_Analysis_ipynp_Final.ipynb` — Full analysis notebook (Python + SQL)
-- `Hotel_analysis.sql` — Standalone SQL queries used in the analysis
-- `hotel_booking.csv` — Raw dataset
+- Hotel_Booking_Analysis.ipynb — Complete Python + SQL analysis notebook
+- Hotel_analysis.sql — SQL queries used for the analysis
+- hotel_booking 2.csv — Raw hotel booking dataset
 
 ## 🔗 Author
 
